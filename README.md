@@ -1,11 +1,11 @@
 ##  Hi, I’m nihat417 
 I like 
 
-:beer:
+- :beer:
 
-:car:
+- :car:
 
-and coding of course:computer:
+- and coding of course:computer:
 
 ### Skills and Tools
 <img align="left" alt="django" width="32px" src="https://mvblog.ru/wp-content/uploads/2022/01/icon-python.png"/>
