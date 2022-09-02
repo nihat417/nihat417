@@ -1,5 +1,5 @@
 ##  Hi, I’m nihat417 
-I like 
+Like 
 
 - :beer:
 
