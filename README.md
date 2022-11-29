@@ -1,29 +1,20 @@
-##  Hi, I’m nihat417 
-Like 
-
-- coding:computer:
-
-### Skills and Tools
-<img align="left" alt="django" width="32px" src="https://mvblog.ru/wp-content/uploads/2022/01/icon-python.png"/>
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"/>
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/>
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
-
-<br />
-<br />
-<br />
+<h1 align="center">Hi 👋, I'm Hi, I’m nihat417</h1>
 
 
-### You contact me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihat417&label=Profile%20views&color=0e75b6&style=flat" alt="nihat417" /> </p>
 
-[<img align="left" alt="Instagram" width="26px" src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png"/>][instagram]
-[<img align="left" alt="Facebook" width="26px" src="https://e7.pngegg.com/pngimages/381/16/png-clipart-social-media-computer-icons-social-network-facebook-facebook-trademark-logo.png"/>][Facebook]
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihat417" alt="nihat417" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/nihat ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nihat ak" height="30" width="40" /></a>
+<a href="https://instagram.com/nihat417" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nihat417" height="30" width="40" /></a>
+</p>
 
-[instagram]:https://www.instagram.com/nihat417/
-[Facebook]:https://www.facebook.com/profile.php?id=100009749131612
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!---
-nihat417/nihat417 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nihat417&show_icons=true&locale=en&layout=compact" alt="nihat417" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihat417&" alt="nihat417" /></p>
+
