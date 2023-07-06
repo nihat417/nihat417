@@ -58,9 +58,19 @@
 <h2 align="center">🌐 Socials:</h2>
 
 <p align="center">
+ <br>
   <a href="https://instagram.com/nihat417">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
   </a>
+
+ <a href="https://www.linkedin.com/in/nihat-akremi-683318260/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100009749131612">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white">
+</a>
+
 </p>
 
 
