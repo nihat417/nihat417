@@ -1,7 +1,7 @@
-<h1 align="center">Tech Stack</h1> 
+ <h1 align="center">Tech Stack</h1> 
 <br> 
- <table align="center" style="border-collapse: collapse;">
-  <tr>
+<table align="center" style="border-collapse: collapse;">
+    <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C">
       <br>
@@ -43,6 +43,39 @@
     </td>
   </tr>
 </table>
+
+<!-- Вторая таблица -->
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/asp.net-%23239120.svg?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET">
+      <br>
+      ASP.NET
+    </td>
+   <td align="center">
+     <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+     <br>
+     Node.js
+   </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white" alt="React">
+      <br>
+      React
+    </td>
+   <td align="center">
+      <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+      <br>
+      Bootstrap
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+      <br>
+      Tailwind CSS
+    </td>
+
+  </tr>
+</table>
+
 
 
 ---
