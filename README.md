@@ -112,13 +112,4 @@
 </p>
 
 ---
-<div align="center">
-<h1>Now Playing — Spotify 🎧</h1>
-
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #121212; margin: 0;">
-    <a  target="_blank" style="text-decoration: none; color: inherit; text-align: center; display: block;">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=31zmadpnz7rqzwajwgq7pxi64nre&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify GitHub Profile" style="max-width: 100%; height: auto; margin: 0 auto;">
-    </a>
-  </div>
-</div>
 
