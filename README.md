@@ -20,7 +20,7 @@
 
 ## 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,cs,dotnet,nodejs,sqlserver&perline=5" alt="Tech Stack Icons">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,react,nextjs,bootstrap,tailwind,postman,nodejs,python,cs,dotnet,cpp,azure&perline=6" alt="Tech Stack Icons">
 </div>
 
 ---
