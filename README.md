@@ -1,115 +1,70 @@
- <h1 align="center">Tech Stack</h1> 
-<br> 
-<table align="center" style="border-collapse: collapse;">
-    <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C">
-      <br>
-      C
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-      <br>
-      C++
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
-      <br>
-      C#
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-      <br>
-      HTML5
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-      <br>
-      CSS3
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-      <br>
-      JavaScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server">
-      <br>
-      Microsoft SQL Server
-    </td>
-  </tr>
-</table>
+<h1 align="center" style="color: #3498db;">Welcome to My Tech Universe!</h1>
 
-
-<table align="center" style="border-collapse: collapse;">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/asp.net-%23239120.svg?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET">
-      <br>
-      ASP.NET
-    </td>
-   <td align="center">
-     <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-     <br>
-     Node.js
-   </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=flat-square&logo=react&logoColor=white" alt="React">
-      <br>
-      React
-    </td>
-   <td align="center">
-      <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-      <br>
-      Bootstrap
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-      <br>
-      Tailwind CSS
-    </td>
-
-  </tr>
-</table>
-
-<div align="center">
-  <p>My portfolio Site</p>
-  <a href="https://portfolio-base-rose.vercel.app/">portfolio-base-rose.vercel.app/</a>
-</div>
-
-
-
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihat417&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</div>
-
-<br> 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=nihat417&icon=0&color=0">
+  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" alt="Coding Animation" width="300">
 </p>
 
-<h2 align="center">🌐 Socials:</h2>
+---
+
+## 🚀 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3498db&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Passionate+Coder;Lifelong+Learner" alt="Typing SVG">
+</p>
+
+<p align="center" style="font-size: 1.2em;">
+  Hi! I'm Nihat, a passionate developer with a love for creating innovative solutions. <br> 
+  Welcome to my portfolio where technology meets creativity.
+</p>
+
+---
+
+## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,cs,dotnet,nodejs,sqlserver&perline=5" alt="Tech Stack Icons">
+</div>
+
+---
+
+## 🎨 Creative Corner
+<div align="center">
+  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" alt="Creative Coding" width="300">
+  <p style="font-size: 1.1em;">I believe in the power of creativity and technology. Check out some of my interactive and fun projects that blend art with code!</p>
+  <p style="font-size: 1.1em;">
+    <a href="https://github.com/nihat417/interactive-art">
+      <img src="https://img.shields.io/static/v1?label=GitHub&message=Interactive%20Art&color=ff69b4&style=for-the-badge&logo=github" alt="Interactive Art">
+    </a>
+  </p>
+</div>
+
+---
+
+## 📊 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihat417&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages">
+</div>
 
 <p align="center">
- <br>
-  <a href="https://instagram.com/nihat417">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+  <img src="https://komarev.com/ghpvc/?username=nihat417&style=flat-square&color=blue" alt="Profile Views">
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/nihat-akremi-683318260"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/nihat417"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://facebook.com/profile.php?id=100009749131612"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+</p>
+
+---
+
+## 📂 My Portfolio
+<p align="center">
+  <a href="https://portfolio-base-rose.vercel.app/">
+    <img src="https://img.shields.io/static/v1?label=Portfolio&message=Visit&color=brightgreen&style=for-the-badge&logo=vercel" alt="Portfolio">
   </a>
-
- <a href="https://www.linkedin.com/in/nihat-akremi-683318260/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100009749131612">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white">
-</a>
-
 </p>
 
----
-
+<div align="center">
+  <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" alt="End Animation" width="200">
+</div>
