@@ -68,3 +68,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" alt="End Animation" width="200">
 </div>
+<div>
+  <img align="center" alt="GIF" src="https://github.com/sagnikghoshcr7/images/blob/master/Profile%20Readme/BreakLine.gif"/>
+</div>
